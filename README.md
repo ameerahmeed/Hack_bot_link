@@ -9,11 +9,11 @@
 This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/Th30neAnd0nly/TrackDown)
+[![Run on Repl.it](https://repl.it/badge/github.com/ameerahmeed/Hack_bot_link)](https://github.com/ameerahmeed/Hack_bot_link)
  
 #### Video Tutorial 
 
-[![Video Tutorial](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.png)](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.mp4?raw=true)
+[![Video Tutorial](https://github.com/ameerahmeed/Hack_bot_link/main/vid.png)](https://github.com/ameerahmeed/Hack_bot_link/main/vid.mp4?raw=true)
 
 **Make sure you put `bot` as the secret's key , it's case sensitive.**
 
@@ -24,7 +24,7 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
 1. Clone the repo using `git clone https://github.com/ameerahmeed/Hack_bot_link`
 1. `cd Hack_bot_link`
 1. Create a environment variable in `.env` file named `bot` and put your telegram bot token as it's value.
-1. Replace your website URL at [index.js](https://github.com/ameerahmeed/Hack_bot_link/blob/8d2b963bc96d34282589d47240a9db56b5ce79f5/index.js#L15)
+1. Replace your website URL at [index.js](https://github.com/ameerahmeed/Hack_bot_link/Hack_bot_link/8d2b963bc96d34282589d47240a9db56b5ce79f5/index.js#L15)
 1. Run `npm install`
 1. Afterwards `npm start`
 1. Your Bot is now online.
